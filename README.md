@@ -1,6 +1,6 @@
 # SRP_MetabolicModel
 
-SI to paper.
+Supplementary materials to paper "Comparative Metabolic Modeling of Multiple Sulfate-reducing Prokaryotes Reveals Versatile Energy Conservation Mechanisms"
 
 Folder Model_File includes model files of 24 SRP.
 
