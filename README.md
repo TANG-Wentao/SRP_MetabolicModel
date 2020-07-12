@@ -2,6 +2,6 @@
 
 SI to paper.
 
-Folder Metabolic_model includes model files of 24 SRP.
+Folder Model_File includes model files of 24 SRP.
 
 Folder Pan_genome.
