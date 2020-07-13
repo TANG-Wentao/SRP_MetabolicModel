@@ -41,7 +41,11 @@ SRPs examined in this study with sequenced genome.
 # Folder Supplementary_material includs:
 
 1- Table S1. Ortholog table 
+
 2- Table S2. Model comparation
+
 3- Table S3. Key reactions
+
 4- Figure S1. Core genome and pan-genome development plot projections 
+
 5- Figure S2. UpSet plot of a) Archaeoglobus, b) Desulfovibrio, and c) Desulfotomaculum.
