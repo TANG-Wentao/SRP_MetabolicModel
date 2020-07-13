@@ -4,7 +4,7 @@ Supplementary materials to paper "Comparative Metabolic Modeling of Multiple Sul
 
 
 
-# Folder ModelFile includes model files of 24 SRP. 
+# Folder Model_File includes model files of 24 SRP. 
 
 Cobra toolbox for metabolic model construction and simulation is available here https://github.com/opencobra/cobratoolbox/
 
