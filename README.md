@@ -12,7 +12,7 @@ SRPs examined in this study with sequenced genome.
 
 |OrganismName|ModelName|NCBIassembly|Size(Mb)|GC%|Note|
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-|Archaeoglobus fulgidus DSM 4304|Af4304|GCA_000008665.1|2.18|48.6|Archaea|
+|Archaeoglobus fulgidus DSM 4304|Af4304|GCA_000008665.1https://www.ncbi.nlm.nih.gov/assembly/GCA_000008665.1|2.18|48.6|Archaea|
 |Archaeoglobus fulgidus DSM 8774|Af8774|GCA_000734035.1|2.32|48.1|Archaea|
 |Archaeoglobus profundus DSM 5631|Apro|GCA_000025285.1|1.56|42|Archaea|
 |Archaeoglobus sulfaticallidus PM70-1|Asul|GCA_000385565.1|2.08|43.2|Archaea|
