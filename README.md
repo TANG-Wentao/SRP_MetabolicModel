@@ -21,7 +21,7 @@ SRPs examined in this study with sequenced genome.
 |Desulfotomaculum nigrificans CO-1-SRB|Dnjg|GCA_000214435.1|2.89|46.6|Gram-positive|
 |Desulfotomaculum reducens MI 1|Dred|GCA_000016165.1|3.61|42.3|Gram-positive|
 |Desulfotomaculum ruminis DSM 2154|Drum|GCA_000215085.1|3.97|47.2|Gram-positive|
-|Desulfovibrio africanus Walvis Bay	Dafr	GCA_000212675.2	4.2	61.4	Gram-negative
+|Desulfovibrio africanus Walvis Bay|Dafr|GCA_000212675.2|4.2|61.4|Gram-negative|
 |Desulfovibrio alaskensis G20|Dala|GCA_000012665.1|3.73|57.8|Gram-negative|
 |Desulfovibrio desulfuricans ATCC 27774|Ddes|GCA_000022125.1|2.87|58.1|Gram-negative|
 |Desulfovibrio desulfuricans ND132|DND132|GCA_000189295.2|3.86|65.2|Gram-negative|
