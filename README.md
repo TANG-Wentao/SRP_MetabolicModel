@@ -8,6 +8,9 @@ Supplementary materials to paper "Comparative Metabolic Modeling of Multiple Sul
 
 Cobra toolbox for metabolic model construction and simulation is available here https://github.com/opencobra/cobratoolbox/
 
+Objective function, i.e., biomass reaction, of each model is bio1.
+
+
 SRPs examined in this study with sequenced genome.
 
 |OrganismName|ModelName|NCBIassembly|Size(Mb)|GC%|Note|
