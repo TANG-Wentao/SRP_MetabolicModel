@@ -45,7 +45,7 @@ SRPs examined in this study with sequenced genome.
 
 1- Table S1. Ortholog table 
 
-2- Table S2. Model comparation
+2- Table S4. Model comparation
 
 3- Table S3. Key reactions
 
