@@ -54,3 +54,7 @@ SRPs examined in this study with sequenced genome.
 4- Figure S1. Core genome and pan-genome development plot projections 
 
 5- Figure S2. UpSet plot of a) Archaeoglobus, b) Desulfovibrio, and c) Desulfotomaculum.
+
+6- DvH_LS_flux_Escher.json
+
+7- DvH_core_map_Escher.json
