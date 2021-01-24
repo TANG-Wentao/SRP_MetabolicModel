@@ -58,3 +58,5 @@ SRPs examined in this study with sequenced genome.
 6- DvH_LS_flux_Escher.json
 
 7- DvH_core_map_Escher.json
+
+8- Cobra_constraints.m
